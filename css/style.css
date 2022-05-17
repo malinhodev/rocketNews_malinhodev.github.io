@@ -90,6 +90,11 @@ form button > i{
     font-size: 25px;
 }
 input[type=email]{
+    border:none;
+    background-image:none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
     border-left: 5px solid var(--green-color);
     padding-left: 8px;
     font-size: 19px;
